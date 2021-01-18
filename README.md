@@ -4,9 +4,9 @@ A Weather app that uses Air Quality API and Weather report API to and displays t
 
 Screenshot of the Application:
 
-<img src = "Screenshot 1.png" width="200"> 
-<img src = "Screenshot 2.png" width="200"> 
-<img src = "Screenshot 3.png" width="200"> 
-<img src = "Screenshot 4.png" width="200"> 
-<img src = "Screenshot 5.png" width="200"> 
-<img src = "Screenshot_6.png" width="200"> 
+<img src = "Screenshots/Screenshot 1.png" width="200"> 
+<img src = "Screenshots/Screenshot 2.png" width="200"> 
+<img src = "Screenshots/Screenshot 3.png" width="200"> 
+<img src = "Screenshots/Screenshot 4.png" width="200"> 
+<img src = "Screenshots/Screenshot 5.png" width="200"> 
+<img src = "Screenshots/Screenshot_6.png" width="200"> 
