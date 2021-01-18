@@ -9,4 +9,4 @@ Screenshot of the Application:
 <img src = "Screenshots/Screenshot 3.png" width="200"> 
 <img src = "Screenshots/Screenshot 4.png" width="200"> 
 <img src = "Screenshots/Screenshot 5.png" width="200"> 
-<img src = "Screenshots/Screenshot_6.png" width="200"> 
+<img src = "Screenshots/Screenshot 6.png" width="200">
